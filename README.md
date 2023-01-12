@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there !!<br>🤝 It's me  < VISHAL KUMAR ><br><br>🌱 I’m currently working as a Product Developer & Researcher<br>🔭 I’m looking to collaborate on Computer vision and Image processing projects<br> through the implementation of AI, ML, and DL approaches.<br><br>💬 Ask me on contacts below<br>
+Hi there !!<br>🤝 It's me  < VISHAL KUMAR ><br><br>🌱 I’m currently working as a Product Developer & Researcher<br>🔭 I’m looking to collaborate on Computer vision and Image processing projects<br> through the implementation of AI, ML, and DL approaches.<br><br>💬 Connect with me<br>
 
 
 ## 🌐 Socials:
